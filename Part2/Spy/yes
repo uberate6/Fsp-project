@@ -1,0 +1,8 @@
+import random
+print("Enter your name")
+name = input()
+adjectives = ( "Sneaky", "Big", "Small", "Sexy", "Mad", "Keen")
+animal = ( "Otter", "Snake", "Cheetah", "Squirrel", "Narwhal", "Cat" )
+print(f"Welcome {name}, your spy name will be {random.choice(adjectives)} {random.choice(animal)}")
+print (random.randint(1,100))
+print("Await further instructions.")
