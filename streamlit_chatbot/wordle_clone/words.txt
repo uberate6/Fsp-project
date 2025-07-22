@@ -1,0 +1,10 @@
+apple
+grape
+table
+blame
+crane
+flame
+bread
+score
+brush
+crate
