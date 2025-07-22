@@ -6,7 +6,7 @@ This repository will be the starter repository for you as you work on your indiv
 - Each exercise must be saved using proper naming and formatting:
   - `ex01`, `ex02`, `ex03`, and so on.
 - Example:
-  - First exercise → `ex01.py`
+  - First exercise → `ex01.py`gi
   - Second exercise → `ex02.py`
   - Third exercise → `ex03.py'
 
